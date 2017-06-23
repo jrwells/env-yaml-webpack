@@ -1,5 +1,5 @@
 {
-  "name": "env-yaml-webpack",
+  "name": "env-yaml-webpack-plugin",
   "version": "0.0.1",
   "description": "A simple webpack plugin to support env-yaml",
   "main": "index.js",
