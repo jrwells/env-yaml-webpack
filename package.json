@@ -1,6 +1,6 @@
 {
   "name": "env-yaml-webpack-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple webpack plugin to support env-yaml",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "webpack": ">=1.14.0"
   },
   "dependencies": {
-    "env-yaml": "^0.1.1"
+    "env-yaml": "^0.1.2"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
