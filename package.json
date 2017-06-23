@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "babel --copy-files --out-dir dist src",
-    "prebuild": "rimraf dist"
+    "prebuild": "rimraf dist",
+    "prepare": "npm run build"
   },
   "author": "Robert Wells",
   "license": "ISC",
