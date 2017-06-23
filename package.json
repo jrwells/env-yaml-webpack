@@ -1,7 +1,7 @@
 {
   "name": "env-yaml-webpack",
   "version": "0.0.1",
-  "description": "A simple webpack plugin to suppot env-yaml",
+  "description": "A simple webpack plugin to support env-yaml",
   "main": "index.js",
   "scripts": {
     "build": "babel --copy-files --out-dir dist src",
