@@ -14,14 +14,14 @@
     "webpack": ">=1.14.0"
   },
   "dependencies": {
-    "env-yaml": "github:jrwells/env-yaml"
-  },
-  "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-eslint": "^7.2.3",
     "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-register": "^6.24.1",
+    "env-yaml": "github:jrwells/env-yaml"
+  },
+  "devDependencies": {
     "rimraf": "^2.6.1",
     "webpack": "^3.0.0"
   },
