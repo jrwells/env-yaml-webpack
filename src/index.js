@@ -47,7 +47,7 @@ class EnvYaml {
       }
     });
 
-    const formatData = Object.keys(vars).reduce((obj, keys) => {
+    const formatData = Object.keys(vars).reduce((obj, key) => {
       obj[`process.env.${key}`] = JSON.stringify(vars[key]);
       return obj;
     }, { });
